@@ -3,3 +3,4 @@ gradio
 gradio-pdf
 pymupdf
 faiss-cpu
+langchain_community
